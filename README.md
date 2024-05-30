@@ -9,9 +9,9 @@ This guide will teach you how to code a computer vision program that recognizes 
 # Objectives
 + Objective 0: Get acquainted and plan ahead
 - Objective 1: Write the base for the program
-    Step 1a: Import libraries and create global variables
-    Step 1b: Write a loop to get camera input
-    Step 1c: Set up variables for image analysis
+  - Step 1a: Import libraries and create global variables
+  - Step 1b: Write a loop to get camera input
+  - Step 1c: Set up variables for image analysis
 + Objective 2: Create tools for hand data and screen writing
     Step 2a: Create an object class to hold hand data
     Step 2b: Create a function that writes hand data on the screen
