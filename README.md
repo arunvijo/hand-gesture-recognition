@@ -1,4 +1,4 @@
-# Hand gesture recognition in Python using OpenCV      
+# Hand gesture recognition in Python using OpenC      
 This guide will teach you how to code a computer vision program that recognizes simple hand gestures:
 
 + Waving
